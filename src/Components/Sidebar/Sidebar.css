@@ -1,0 +1,19 @@
+.SideBar {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.SideBarFav {
+    margin-top: 20px; 
+    margin-left: 20px;
+    z-index: 5;
+    color: yellow;
+}
+
+.SearchHistoryFavoriteBar {
+    margin-top: 20px;
+    height: 80vh;
+    width: 25rem;
+
+}

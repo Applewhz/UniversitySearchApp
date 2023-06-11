@@ -1,0 +1,33 @@
+.SearchResultCard {
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    background-color:rgba(255, 255, 255, 0.4);
+    width: 45rem;
+    min-height: 5rem;
+    margin: 10px 30px 0px 30px;
+    padding: 21px;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    justify-items: center;
+}
+
+.SearchAndDeleteButtonContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    margin-right: 10px;
+    width: 34px;
+    height: 34px;
+    border-radius: 20px; 
+    align-self: center;
+    justify-self: center;
+}
+
+.SearchResultCardRightSide{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

@@ -1,0 +1,16 @@
+.SearchButtonContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #40b5a0;
+    margin-right: 10px;
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    align-self: center;
+    justify-self: center;
+}
+
+.SearchIcon{
+    color: white;
+}

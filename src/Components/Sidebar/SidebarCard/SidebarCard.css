@@ -1,0 +1,29 @@
+.SidebarCard {
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    background-color:rgba(255, 255, 255, 0.4);
+    width: 18rem;
+    min-height: 5rem;
+    margin: 10px 30px 0px 30px;
+    padding: 5px;
+    font-size: 13px;
+    justify-content: space-between;
+}
+
+.EditAndDeleteRemarkButtonContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: none;
+    margin-left: 10px;
+    align-self: center;
+    justify-self: center;
+}
+
+.SidebarCardRightSide{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    align-items: self-end;
+}
